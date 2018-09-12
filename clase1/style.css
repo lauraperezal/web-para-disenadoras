@@ -1,0 +1,36 @@
+body {
+    color: purple;
+}
+
+a:focus {
+    color: green;
+}
+
+a:active {
+    color: pink;
+}
+
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    color:  rgb(0, 128, 96)
+}
+
+section:hover {
+    background-color: brown;
+    color: white;
+}
+
+#flota {
+    float: left;
+    width: 50px;
+}
+
+#pos-abs {
+    position: absolute;
+    width: 50px;
+    top: 42px;
+    left: 50px;
+}
